@@ -1,0 +1,33 @@
+MAIN: HOW DID BITCOIN LOSE IT'S VALUE AS AN EXCHANGE COIN
+
+What factors cause Bitcoin to lose value (events/trends/etc)?
+-Did the introduction of bitcoin to the mainstream media have any effect on its value?
+-What specific types of events cause bitcoin to fluctuate in value?
+-Do current social trends have any effect on the value of bitcoin?
+
+How valuable is Bitcoin as a unit for exchange as compared to other virtual currencies/traditional currencies?
+-Is it worth it to use bitcoin over normal money?
+:Bitcoin is decentralized. No middle-man, not controlled/regulated by a central entity. More secure. Faster.
+:Universal ledger. Impossible to cheat/create bitcoins. Fixed number of 21 million bitcoins. Deflation.
+-What differentiates bitcoin from other virtual currencies like Ethereum or ZCash
+
+
+What makes people invest in (and therefore increase the value of) bitcoin?
+-Advantages of bitcoin?
+-How did the explosion of bitcoins popularity affect its value?
+
+:Bitcoin is longterm
+:Many people invested into bitcoin due to it's explosion in popularity
+:Bitcoin was invented to be an alternative currency, instead it is being used for trades of currency
+:Hard to use for actual exchange of products/services
+:Too unstable/volatile (price volatile bank)
+:Etherium aims to be more stable
+:Easily exploitable by farming mines
+
+Bitcoin requires electricity and CPU to mine:
+-Less electricity efficient than visa
+
+
+BLOCKCHAIN
+-
+
